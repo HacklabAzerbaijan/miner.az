@@ -1,0 +1,117 @@
+.blogmenu{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  font-family: "SFUI", sans-serif;
+  margin-top: 140px;
+
+}
+
+.blogmenu .logotext{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+   font-family: "SFUI", sans-serif;
+}
+
+.blogmenu .logotext span{
+  font-size: 2.1rem;
+  font-weight: 300;
+  letter-spacing: .5px;
+  color: #b2b2b2;
+   font-family: "SFUI", sans-serif;
+}
+.card{
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-top: 100px;
+  width: 100%;
+  background: #fff;
+  border-radius: 0%;
+  font-family: "SFUI", sans-serif;
+
+}
+
+.carditems{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 25px;
+  border-radius: 2%;
+  -webkit-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+  -moz-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+  box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+  transform: scale(1);
+  transition: all 0.3s ease-in-out;
+  margin:125px 20px;
+  margin-top: -70px;
+  padding: 20px 25px;
+  width: 315px;
+  height: 325px;
+  background: #fff;
+  cursor: pointer;  font-family: "SFUI", sans-serif;
+}
+.carditems:hover{
+  transform: scale(1.0555);
+}
+.carditems span:nth-child(1){
+  display: block;
+  color: #738a94;
+  font-size: 0.9rem;
+  line-height: 1.15em;
+  font-weight: 500;
+  letter-spacing: .5px;
+  text-transform: uppercase;  font-family: "SFUI", sans-serif;
+
+ 
+}
+ .carditems span:nth-child(2){
+  color: #15171a;
+  line-height: 1.15;
+  font-weight: 700;
+  text-rendering: optimizeLegibility;
+  display: block;
+  font-size: 1.25em;
+  margin-top: 5px;  font-family: "SFUI", sans-serif;
+
+ }
+ .carditems span:nth-child(3){
+  color: #15171a;
+  /*margin-top:10px;*/
+  margin-top: 30px;
+  height: 280px;
+  margin-bottom: 10px;
+  font-size: 16px;
+ 
+
+ }
+ .carditems span:nth-child(4){
+  color: #738a94;
+   font-size: 0.9rem;
+   font-weight: 500;
+ }
+
+ @media only screen and (max-width: 450px) {
+   .carditems{
+   
+     padding: 15px;
+     width: 265px;
+   }
+
+.blogmenu .logotext img{
+ width: 280px;
+
+}
+
+}
+
+.space1{
+
+  background: #fff;
+}
