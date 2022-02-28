@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f192335d.css",
+    "main.js": "/static/js/main.198e3a12.js",
+    "static/media/device-mockup.png": "/static/media/device-mockup.4fcd53428321730cec93.png",
+    "static/media/miner-az-home.png": "/static/media/miner-az-home.6cfe20bcb923e71b4615.png",
+    "static/media/illustration-01.png": "/static/media/illustration-01.13d3239b658d3fbbd51b.png",
+    "static/media/SpaceMax.svg": "/static/media/SpaceMax.87f178973505a5bde076.svg",
+    "static/media/image-globe.png": "/static/media/image-globe.b281c6cee00fc56fb0cf.png",
+    "static/media/zig-zag-wool.png": "/static/media/zig-zag-wool.4dc58d67c075eca6a93f.png",
+    "static/media/circles-light.png": "/static/media/circles-light.b8c50eadbc2d248603c6.png",
+    "static/media/SpaceMax.eot": "/static/media/SpaceMax.e33ff2f10617f8238781.eot",
+    "static/media/SpaceMax.ttf": "/static/media/SpaceMax.17959245cb8e39afb5fa.ttf",
+    "static/media/brand-logo-white.png": "/static/media/brand-logo-white.651433a8628484d73c88.png",
+    "static/media/tic-tac-toe.png": "/static/media/tic-tac-toe.04bd755ec726bd1a7249.png",
+    "static/media/map-1.png": "/static/media/map-1.7801f98c131a9ee935fb.png",
+    "static/media/vizyon.png": "/static/media/vizyon.832423581476a2783955.png",
+    "static/media/qapidan-qapiya.png": "/static/media/qapidan-qapiya.4a99fb029956ab25aaf1.png",
+    "static/media/round-pattern.png": "/static/media/round-pattern.2f2262eebe745662b2bc.png",
+    "static/media/360-derece.png": "/static/media/360-derece.53e710c309aaa1379d71.png",
+    "static/media/memphis-colorful.png": "/static/media/memphis-colorful.70d889ffd1d77327db04.png",
+    "static/media/uygun-teklif.png": "/static/media/uygun-teklif.816792d5c1f1dee27e00.png",
+    "static/media/orta.png": "/static/media/orta.d5fa191b50d1eca3101a.png",
+    "static/media/SpaceMax.woff": "/static/media/SpaceMax.336dd4ea2a386926618e.woff",
+    "static/media/curls.png": "/static/media/curls.341c1a0d39e3c7bfda7d.png",
+    "static/media/SpaceMax.woff2": "/static/media/SpaceMax.38dce6d35e4708ab8885.woff2",
+    "static/media/konsaltinq.png": "/static/media/konsaltinq.91bad70f7e3d32cd7643.png",
+    "static/media/leaf-pattern.png": "/static/media/leaf-pattern.082fcdf619e933b2c3ff.png",
+    "static/media/missiya.png": "/static/media/missiya.edb0a2fd34c28718afd2.png",
+    "static/media/process.svg": "/static/media/process.b3ea1f89b6418284e79aaa19ed1d7c81.svg",
+    "static/media/quote.svg": "/static/media/quote.8e1e1ff0d9b0c1feb9ef.svg",
+    "index.html": "/index.html",
+    "main.f192335d.css.map": "/static/css/main.f192335d.css.map",
+    "main.198e3a12.js.map": "/static/js/main.198e3a12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f192335d.css",
+    "static/js/main.198e3a12.js"
+  ]
+}
